@@ -1,5 +1,5 @@
 # Face Detection
-Implement a face detection model with Python and TensorFlow for precise identification of faces in images or video streams. This project provides a robust solution for various applications such as security systems, surveillance, and social media platforms
+Implemented a face detection model with Python and TensorFlow for precise identification of faces in images or video streams. This project provides a robust solution for various applications such as security systems, surveillance, and social media platforms
 
 ## ✍ Author
 
